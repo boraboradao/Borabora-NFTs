@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# About Borabora NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+BoraBora's unique NFT are a set of NFTs with 5 different era types. They are transaction volume certificates and income addition tools, and they are also the master key of the trader ecology.Holders only need to save them in your transaction wallet to unlock exclusive earnings and benefits.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
